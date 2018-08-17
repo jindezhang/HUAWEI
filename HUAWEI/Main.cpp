@@ -6,6 +6,9 @@
 #include "score_sort.h"
 #include "listNode.h"
 #include "studyEnglish.h"
+#include "friend_words.h"
+#include "invered_word.h"
+#include "regex_.h"
 
 int main(){
 	//point24 t;
@@ -30,7 +33,17 @@ int main(){
 	//tmain();
 
 	//学英语
-	main_study();
+	//main_study();
+
+	//dict
+	//main_word();
+
+	//单词倒排
+	//main_invered();
+
+	//正则表达式
+	main_regex2();
+
 }
 
 

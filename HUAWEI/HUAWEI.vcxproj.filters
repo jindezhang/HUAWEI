@@ -30,13 +30,22 @@
     <ClInclude Include="score_sort.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="标头.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
     <ClInclude Include="listNode.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="studyEnglish.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="friend_words.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="invered_word.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="regex_.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
@@ -63,6 +72,15 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="studyEnglish.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="friend_words.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="invered_word.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="regex_.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

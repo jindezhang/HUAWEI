@@ -148,19 +148,25 @@
   <ItemGroup>
     <ClInclude Include="24point.h" />
     <ClInclude Include="all24point.h" />
+    <ClInclude Include="friend_words.h" />
+    <ClInclude Include="invered_word.h" />
     <ClInclude Include="listNode.h" />
+    <ClInclude Include="main.h" />
     <ClInclude Include="my24point.h" />
+    <ClInclude Include="regex_.h" />
     <ClInclude Include="score_sort.h" />
     <ClInclude Include="studyEnglish.h" />
     <ClInclude Include="unique_data.h" />
-    <ClInclude Include="标头.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="24point.cpp" />
     <ClCompile Include="all24point.cpp" />
+    <ClCompile Include="friend_words.cpp" />
+    <ClCompile Include="invered_word.cpp" />
     <ClCompile Include="listNode.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="my24point.cpp" />
+    <ClCompile Include="regex_.cpp" />
     <ClCompile Include="score_sort.cpp" />
     <ClCompile Include="studyEnglish.cpp" />
     <ClCompile Include="unique_data.cpp" />
