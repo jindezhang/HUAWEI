@@ -1,3 +1,7 @@
-﻿  regex_.cpp
+﻿  Main.cpp
+d:\vs_test\huawei\huawei\datastruct.h(38): warning C4018: “<”: 有符号/无符号不匹配
+  d:\vs_test\huawei\huawei\datastruct.h(36): note: 编译类 模板 成员函数“HashTable<char,char>::HashTable(std::UINT)”时
+  d:\vs_test\huawei\huawei\main.cpp(274): note: 参见对正在编译的函数 模板 实例化“HashTable<char,char>::HashTable(std::UINT)”的引用
+  d:\vs_test\huawei\huawei\main.cpp(274): note: 参见对正在编译的类 模板 实例化“HashTable<char,char>”的引用
   HUAWEI.vcxproj -> D:\vs_test\HUAWEI\Debug\HUAWEI.exe
   HUAWEI.vcxproj -> D:\vs_test\HUAWEI\Debug\HUAWEI.pdb (Full PDB)

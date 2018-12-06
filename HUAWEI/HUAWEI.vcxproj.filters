@@ -48,6 +48,9 @@
     <ClInclude Include="regex_.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="random.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="24point.cpp">
@@ -82,6 +85,9 @@
     </ClCompile>
     <ClCompile Include="regex_.cpp">
       <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DataStruct.h">
+      <Filter>头文件</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

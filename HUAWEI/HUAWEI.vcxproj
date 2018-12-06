@@ -153,6 +153,7 @@
     <ClInclude Include="listNode.h" />
     <ClInclude Include="main.h" />
     <ClInclude Include="my24point.h" />
+    <ClInclude Include="random.h" />
     <ClInclude Include="regex_.h" />
     <ClInclude Include="score_sort.h" />
     <ClInclude Include="studyEnglish.h" />
@@ -161,6 +162,7 @@
   <ItemGroup>
     <ClCompile Include="24point.cpp" />
     <ClCompile Include="all24point.cpp" />
+    <ClCompile Include="DataStruct.h" />
     <ClCompile Include="friend_words.cpp" />
     <ClCompile Include="invered_word.cpp" />
     <ClCompile Include="listNode.cpp" />
